@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "hwDay1C#/1.0.0": {
+        "runtime": {
+          "hwDay1C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hwDay1C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

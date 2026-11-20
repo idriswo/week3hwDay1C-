@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\bin\Debug\net10.0\hwDay1C#.exe
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\bin\Debug\net10.0\hwDay1C#.deps.json
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\bin\Debug\net10.0\hwDay1C#.runtimeconfig.json
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\bin\Debug\net10.0\hwDay1C#.dll
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\bin\Debug\net10.0\hwDay1C#.pdb
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\obj\Debug\net10.0\hwDay1C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\obj\Debug\net10.0\hwDay1C#.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\obj\Debug\net10.0\hwDay1C#.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\obj\Debug\net10.0\hwDay1C#.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\obj\Debug\net10.0\hwDay1C#.dll
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\obj\Debug\net10.0\refint\hwDay1C#.dll
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\obj\Debug\net10.0\hwDay1C#.pdb
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\obj\Debug\net10.0\hwDay1C#.genruntimeconfig.cache
+C:\Users\USER\Desktop\C#\week3C#\hwDay1C#\obj\Debug\net10.0\ref\hwDay1C#.dll
